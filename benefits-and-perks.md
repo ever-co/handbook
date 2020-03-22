@@ -28,9 +28,10 @@ If employee working remotely, it's his responsibility to take gift from the offi
 
 ### Home Office Set-up
 
-Since we allow employees work remotely (after probation period), we want to make sure employee home office is comfortable and hardware meets our software requirements.
+Since we allow all our employees (and contractors) to work remotely, we want to make sure employee home office is comfortable and hardware meets our software requirements.
 
 So, if employee missing some of required equipment (Workstation, Monitors, etc.) it will be provided for temporary (free) use for the duration of employment contract.
+
 It is also possible to upgrade employee existed hardware at expense of the company if that makes logical sense to do (e.g. upgrade RAM or provide additional Monitor if employee has already one monitor at home office).
 
 In addition, if employee expected to travel, our company will provide notebook for temporary (free) use for the duration of the contract, instead of workstation.
