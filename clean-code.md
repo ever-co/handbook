@@ -23,8 +23,9 @@
 ## Github Issues and PRs
 
 1) It's best to make sure every Github PR or Issue has a short video or screenshots, especially for complex features. Today lots of software available for video recording (both paid and free), including:
+- https://www.loom.com
 - https://getsharex.com
 - https://obsproject.com
 - https://www.techsmith.com/screen-capture.html
-- https://www.loom.com
+- https://www.screencastify.com/
 - https://www.getcloudapp.com
