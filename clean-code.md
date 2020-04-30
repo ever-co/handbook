@@ -3,8 +3,9 @@
 ## Code
 
 1) Watch spacing vs tabs in your commits / PRs. Sometimes developer did not make any real changes in the source file, but we can see the changes from space to tabs or back. Please avoid that!
-2) For JS/TS based projects, if you use VS Code please setup https://marketplace.visualstudio.com/items?itemName=DeepScan.vscode-deepscan
-3) Watch out for errors from DeepScan, CircleCI build reports or other tools we are using after you push your code and fix them as soon as possible
+2) For JS/TS based projects, if you use VS Code please setup [DeepScan Extension](https://marketplace.visualstudio.com/items?itemName=DeepScan.vscode-deepscan).
+3) For .NET projects, if you use VS 2019 please setup [ReSharper](https://www.jetbrains.com/resharper) (ask manager about license).
+3) Watch out for errors from DeepScan, CircleCI build reports or other tools we are using after you push your code and fix them as soon as possible.
 
 ## Branching
 
