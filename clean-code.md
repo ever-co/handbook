@@ -24,7 +24,9 @@
 
 ## Github Issues and PRs
 
-1) It's best to make sure every Github PR or Issue has a short video or screenshots, especially for complex features. Today lots of software available for video recording (both paid and free), including:
+1) We recommend to install https://www.zenhub.com/extension for better project management on Github
+
+2) It's best to make sure every Github PR or Issue has a short video or screenshots, especially for complex features. Today lots of software available for video recording (both paid and free), including:
 - https://www.loom.com
 - https://getsharex.com
 - https://obsproject.com
