@@ -29,7 +29,7 @@ facilities in Bulgaria.
 
 #### Birthday Day Off
 
-Starting from 01.01.2020, all employees can take 1 fully paid day off on the official Birthday date
+Starting from 01.01.2020, all employees can take 1 fully paid day off on the official Birthday date or on any other day of the same week.
 
 #### Ever Holiday Gift
 
