@@ -12,6 +12,6 @@
  
 # Culture
 
-> **Work smart & hard, and you’ll earn more than just (more) money!**
+> **Work Smart & Hard, and you’ll earn more than just (more) money!**
 
-So, we believe that in order to earn more (not only money, but also a good life), we should work both smarter and harder!
+So, we believe that in order to earn more (not only money, but also a good life), we should work both Smarter and Harder!
