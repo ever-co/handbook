@@ -25,7 +25,7 @@ After joining our company, employee automatically enrolls in the insurance with 
 #### MultiSport Card
 
 The company pays 100% of the MultiSport card (https://benefitsystems.bg) which provides access or discounts for over 900 sport 
-facilities in Bulgaria. For those who prefer to go to some other places, not covered by MultiSport or just do it at home, we compensate MultiSport card as monthly bonus payment of 60 leva (GROSS)
+facilities in Bulgaria. For those who prefer to go to some other places, not covered by MultiSport or just do it at home, we compensate MultiSport card as monthly bonus payment of 60 leva (GROSS).
 
 #### Birthday Day Off
 
