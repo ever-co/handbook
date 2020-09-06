@@ -1,5 +1,15 @@
 # Clean Code
 
+## Principles
+
+- we micromanage technical details and code, not people!
+- we mainly judge engineers on how good they following the development process, because if they follow the process well, good results will always follow! The focus should be on good process (and continues improving), not just good code!
+- make sure you read and understand the task (issue) before you start writing code. We prefer engineer re-read task description (with sub-tasks, comments, etc) multiple times to make sure nothing missed before any code written
+- we are not interested our engineers to do task faster in the expense of getting it done right!
+- before implement some components or modules, make sure: 
+  a) such components/modules not exists yet (in our codebase or as an open-source project you can use)
+  b) if nothing exists and you are going to build new one, make sure to think if such component/module can be done more generic way and used in other parts of the system you are building. For example "notes" or "notifications" modules could probably be used in 100x places all over any software or even in multiple software. So if you need to create EmployeeNotes, CandidateNotes, ProductNotes, etc, make sure you create generic "Nodes" instead and use it everywhere.
+  
 ## Code
 
 1) Watch spacing vs tabs in your commits / PRs. Sometimes developer did not make any real changes in the source file, but we can see the changes from space to tabs or back. Please avoid that!
