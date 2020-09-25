@@ -11,20 +11,23 @@ In addition to the base salary (currently defined by individual employment contr
 
 We are planing to start introducing following base salary stairs somewhere in the middle of 2020 (and finish it till the end of 2020) for all our Bulgarian R&D full-time software engineers (with exceptions, see info below).
 
-| Level  | Work Period | Gross Salary | Raise |
+| Level  | Work Period | Gross Salary | Raise | 
 |---|---|---|---|
+| Level 0 | 0 - 6 month during probation | 650 | +0 | 
 | Level A | 0 - 6 month | 1220 Gross | +0 (1220 = 2*610) | 
-| Level B | 6 month - 12 month | 1420 Gross | +200 |
-| Level C | 1 year - 2 years | 1820 Gross | +400 |
+| Level B | 6 month - 12 month | 1420 Gross | +200 | 
+| Level C | 1 year - 2 years | 1820 Gross | +400 | 
 | Level D | 2 years - 3 years | 2420 Gross | +600 | 
 | Level E | 3 years - 4 years | 3420 Gross | +1000 | 
-| Level F | 4 years - 5 years | 5020 Gross | +1600 |
+| Level F | 4 years - 5 years | 5020 Gross | +1600 | 
 | Level G | 5 years - 6 years | 7620 Gross | +2600 | 
 | Level H | 6 years - 7 years | 11820 Gross | +4200 |
 
-Note1: We define Level A salary as official Bulgarian minimum Salary * 2 (currently it’s 610 leva, Gross). That way if the official minimum salary got reindexed, we also automatically raise everything yearly.
+Note1: Level 0 is for initial probation period (6 month) and paid Internship. Some employees who have already much of past work experience or can demonstrate extensive knowledge / skills will be hired into Leval A and skip Level 0.
 
-Note2: it’s the same idea as in Fibonacci numbers used above: 
+Note2: We define Level A salary as official Bulgarian minimum Salary * 2 (currently it’s 610 leva, Gross). That way if the official minimum salary got reindexed, we also automatically raise everything yearly.
+
+Note3: it’s the same idea as in Fibonacci numbers used above: 
 200, 400 (200+200), 600 (200+400), 1000 (400+600), 1600 (600+1000), 2600 (1000+1600), 4200 (1600+2600), ...
 
 IMPORTANT: salary raised according to LEVEL, not according to years! We measure years of work at the company, but only employee performance and skills define the level, not the number of work years in the company. So amounts of years given for demonstration purposes only!!! It’s possible some engineers progress faster than others and move levels faster (according to performance reviews we will do in the future) and it’s possible some engineers progress slower than others and stay at the same level for multiple years (or indefinitely). We later will describe formally each level minimum requirements, but for now, it’s at manager discretion. Other companies are using positions for that like Junior, Senior, Senior II, Staff, Lead, etc. For now, we will just use single letter Levels and call everyone who works less than 6 months Junior.
