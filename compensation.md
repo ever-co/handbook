@@ -10,17 +10,17 @@ In addition to the base salary (defined by individual employment contracts), all
 
 Please see base salary stairs for all our Bulgarian R&D full-time software engineers (with exceptions, see info below).
 
-| Level  | Work Period | Gross Salary | Raise | 
+| Level  | Work Period | Gross Salary BGN | Raise | 
 |---|---|---|---|
-| Level 0 | 0 - 6 month during probation | 650 | +0 | 
-| Level A | 0 - 6 month | 1220 Gross | +0 (1220 = 2*610) | 
-| Level B | 6 month - 12 month | 1420 Gross | +200 | 
-| Level C | 1 year - 2 years | 1820 Gross | +400 | 
-| Level D | 2 years - 3 years | 2420 Gross | +600 | 
-| Level E | 3 years - 4 years | 3420 Gross | +1000 | 
-| Level F | 4 years - 5 years | 5020 Gross | +1600 | 
-| Level G | 5 years - 6 years | 7620 Gross | +2600 | 
-| Level H | 6 years - 7 years | 11820 Gross | +4200 |
+| Level 0 | 0 - 6 month during probation | 650 BGN | +0 | 
+| Level A | 0 - 6 month | 1220 BGN Gross | +0 (1220 = 2*610) | 
+| Level B | 6 month - 12 month | 1420 BGN Gross | +200 | 
+| Level C | 1 year - 2 years | 1820 BGN Gross | +400 | 
+| Level D | 2 years - 3 years | 2420 BGN Gross | +600 | 
+| Level E | 3 years - 4 years | 3420 BGN Gross | +1000 | 
+| Level F | 4 years - 5 years | 5020 BGN Gross | +1600 | 
+| Level G | 5 years - 6 years | 7620 BGN Gross | +2600 | 
+| Level H | 6 years - 7 years | 11820 BGN Gross | +4200 |
 
 Notes: 
 
