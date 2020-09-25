@@ -1,4 +1,4 @@
-# Salary and Bonuses Information
+# Compensation and Bonuses Information
 
 We have different base salary "stairs" in different regions for our full-time employees (not contractors).
 
