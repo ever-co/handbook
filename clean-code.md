@@ -37,12 +37,18 @@
 5) Be careful when you merge to not lost your own changes or other developers changes. Ask more senior developers to help with merging if you not completely sure how to do it safely.
 
 6) To Summarize, the flow to starting work on new feature or fix is following:
+
  - First checkout develop `git checkout develop`
  - Pull latest `git pull`
  - Now create your feature or fix branch `git checkout -b feat/#ticket-number-and-some-more-branch-name`
  - Write your code
  - Now commit, push and make PR from your feature branch `feat/#ticket-number-and-some-more-branch-name` into `develop` branch
  - For a different feature or fix repeat steps above again :)
+
+7) Enable automatic rebase / stash
+
+`git config --global pull.rebase true`  
+`git config --global rebase.autoStash true`
 
 ## Github Issues and PRs
 
