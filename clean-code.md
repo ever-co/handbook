@@ -52,6 +52,7 @@
 - https://www.loom.com
 - https://getsharex.com
 - https://obsproject.com
-- https://www.techsmith.com/screen-capture.html
+- [Snagit](https://www.techsmith.com/screen-capture.html)
 - https://www.screencastify.com/
 - https://www.getcloudapp.com
+- https://www.apowersoft.com/free-online-screen-recorder
