@@ -3,11 +3,16 @@
 ## Principles
 
 - we micromanage technical details and code, not people!
+
 - we mainly judge engineers on how good they following the development process, because if they follow the process well, good results will always follow! The focus should be on good process (and continues improving), not just good code!
+
 - make sure you read and understand the task (issue) before you start writing code. We prefer engineer re-read task description (with sub-tasks, comments, etc) multiple times to make sure nothing missed before any code written
+
 - we are not interested our engineers to do task faster in the expense of getting it done right!
-- before implement some components or modules, make sure: 
-  a) such components/modules not exists yet (in our codebase or as an open-source project you can use)
+
+- before implement some components or modules, make sure:
+
+  a) such components/modules not exists yet (in our codebase or as an open-source project you can use)  
   b) if nothing exists and you are going to build new one, make sure to think if such component/module can be done more generic way and used in other parts of the system you are building. For example "notes" or "notifications" modules could probably be used in 100x places all over any software or even in multiple software. So if you need to create EmployeeNotes, CandidateNotes, ProductNotes, etc, make sure you create generic "Nodes" instead and use it everywhere.
   
 ## Code
@@ -23,6 +28,8 @@
 5) Make sure you push code DAILY (to feature branch of course), even if you working long time on some large Epic!
 
 6) On "removing" of some code. Basically, people say that it's great when you can remove a lot of code and make your code base simpler / smaller. And it's true and normally part of the process called "Refactoring". What is not acceptable however, is when you remove the code you do NOT understand (yet), for example, when you try to do your task or fix some issues, etc. You may think: "hm, I don't understand that few lines of code (or thousands lines, does not matter), so let's just remove it" and this is where you basically make a huge mistake because you just remove some FEATURE ... So, please DO NOT EVER REMOVE EVEN SINGLE LINE OF CODE UNLESS YOU ABSOLUTELY UNDERSTAND WHY IT WAS ADDED THERE AND WHY IT'S NOT NEEDED ANYMORE. We see this happens mostly for beginners / juniors, rare for Senior Developers (unless by mistake of course, sh..t happen to everyone).
+
+7) Let's avoid Typos! Use https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker or similar extension for your IDE to check spelling! 
 
 ## Branching
 
