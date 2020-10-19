@@ -13,8 +13,9 @@ Some of contractors are listed at our Upwork agency profile: https://upwork.com/
 ### General Rules
 
 General rules for all contractors:
-- Do not compete aggrement
-- Do not entice away customers aggrement
+- Do not compete agreement
+- Do not entice away customers agreement
+
 ```
 The Contractor shall not for a period of 12 months after termination of the Contract seek to entice away
 from the Company or otherwise solicit or interfere with the relationship between the Company and any person, 
@@ -33,7 +34,7 @@ We have in use multiple possible ways to pay our contractors:
 
 Contractor can register in the [Rimuut.com](https://rimuut.com) and in the [TransferWise](https://transferwise.com) and connect them together.
 
-So the flow of payment will be: 
+So, the flow of payment will be: 
 Our Company -> Rimuut -> TransferWise -> Contractor Bank Account or Credit Card
 
 In the TransferWise, Contractor will need to setup Personal account (unless there is some registered business of course) and will need to deposit 20 Euro to open Euro virtual IBAN, which will need to be entered into Rimuut. Note, that Rimuut / TransferWise may require some additional documents from Contractor to confirm identity.
