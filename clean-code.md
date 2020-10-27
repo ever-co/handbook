@@ -63,6 +63,7 @@
 
 2) It's best to make sure every Github PR or Issue has a short video or screenshots, especially for complex features. Today lots of software available for video recording (both paid and free), including:
 - https://www.loom.com
+- [Vimeo Record](https://chrome.google.com/webstore/detail/vimeo-record-screen-webca/ejfmffkmeigkphomnpabpdabfddeadcb)
 - https://getsharex.com
 - https://obsproject.com
 - [Snagit](https://www.techsmith.com/screen-capture.html)
