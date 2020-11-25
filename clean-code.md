@@ -31,6 +31,8 @@
 
 7) Let's avoid Typos! Use https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker or similar extension for your IDE to check spelling! 
 
+8) DRY - do not repeat yourself - do NOT copy / paste code multiple times!
+
 ## Branching
 
 1) When developer pushed some large commits to new `feature` branch, it's best to create **Draft Pull Request** from `feature` branch to `develop` branch (note: Draft, not regular!). That way we can be sure nobody will remove feature branch by incident plus it will be able easy to review code changes directly on Github.
