@@ -18,5 +18,13 @@ We try to summarize it all as a checklists of actional items, so you did not mis
 - [ ] Make sure you set the same avatar in Slack as you used for your corporate account.
 - [ ] You should also recieve invite to Time Management application (e.g. HubStaff). Please accept it, install app and make sure you start timer when you start work and stop timer when you finish your work (or get to a break longer than few minutes). Note: do NOT run timer when you are doing personal things (e.g Facebook or family calls). Only run timer when you work on company / clients related tasks.
 - [ ] Please make sure you set same avatar in time management app as you set in Slack and Gmail account.
-- [ ] You should also recieve invite to join our Github company account (for full-time employees / contractors) or get invite to specific repo (for part-time contractors). Please accept it.
+- [ ] You should also receive invite to join our Github company account (for full-time employees / contractors) or get invite to specific repo (for part-time contractors). Please accept it.
 - [ ] It's best if you can set same Avatar in Github account, but not strictly required. You can also add your corporate email as secondary email to your Github account.
+
+## Legal
+
+- [ ] You may receive request to sign NDA to your personal email, if you are going to work on our or our customers private projects. Please sign it electronically. 
+- [ ] You will receive request to sign "Individual Contributor Assignment Agreement" (CAA) to your personal email, please sign it electronically. This document basically assign all copyright for work you will be doing to our company (e.g. copyrights of the code).
+- [ ] You will receive request to sign "Inventions Agreement" to your personal email, please sign it electronically. This document basically assign all inventions you may made during work on our projects to our company.
+
+Note: we are using https://eversign.com for digital signining (yes, EverSign, but no, it's not our own service, just a similar and cool name...)
