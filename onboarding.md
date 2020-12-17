@@ -8,7 +8,7 @@ We try to summarize it all as a checklists of actional items, so you did not mis
 
 ## Work and Communication Management Software / Tools
 
-- [ ] If you a full-time employee or full-time contractor, you should get an invite to your corporate email @ever.co domain into your private email. Please accept invite and register.
+- [ ] If you a full-time employee or full-time contractor, you should get an invite to your corporate email (@ever.co or @ever.tech domain) into your private email. Please accept invite and register.
 - [ ] Make sure you enable 2FA authentication in all apps. We suggest you to do it right away in both private email and in your corporate email (if you get one).
 - [ ] Make sure you set some avatar (any image, photo etc) in the corporate email.
 - [x] If you register corporate email (@ever.co) all next invitations will be send to that corporate email.
