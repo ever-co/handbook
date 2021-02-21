@@ -1,4 +1,4 @@
-# Employee Onboarding
+# Employee & Contractor Onboarding
 
 Welcome to the **Ever** company!  
 We all are so excited to starting working with you! :rocket:
@@ -18,8 +18,11 @@ We try to summarize it all as a checklists of actional items, so you did not mis
 - [ ] Make sure you set the same avatar in Slack as you used for your corporate account (if you have one) or for other apps you will use. We need that to quickly see who send a message in channels. You can use any image as an avatar, not nessasary your photo. 
 - [ ] You should also recieve invite to Time Management application, e.g. [Gauzy](https://github.com/ever-co/gauzy) or [HubStaff](https://hubstaff.com/). Please accept it, install app and make sure you start timer when you start work and stop timer when you finish your work (or get to a break longer than few minutes). Note: do NOT run timer when you are doing personal things (e.g Facebook or family calls). Only run timer when you work on company / clients related tasks. It's also important that you run Desktop based timer, not web based, because it will monitor activities / make screenshots and our customers will be able to review that information.
 - [ ] Please make sure you set same avatar in time management app profile as you set in Slack.
+- [ ] Please send your Github profile ID (URL) in the Slack #onboard or #contractors channel.
 - [ ] You should also receive invite to join our Github company account (for full-time employees / contractors) or get invite to specific repo (for part-time contractors). Please accept it.
 - [ ] It's best if you can set same Avatar in your Github account, but not strictly required. You can also add your corporate email (if you have one) as secondary email to your Github account.
+- [ ] Please read [Contractors](https://github.com/ever-co/handbook/blob/master/contractors.md) document.
+- [ ] Please read [Clean Code](https://github.com/ever-co/handbook/blob/master/clean-code.md) document.
 
 ## Legal
 
