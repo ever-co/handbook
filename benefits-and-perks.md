@@ -22,11 +22,6 @@ After joining our company, employee automatically enrolls in the insurance with 
 
 ### Perks
 
-#### MultiSport Card
-
-The company pays 100% of the MultiSport card (https://benefitsystems.bg) which provides access or discounts for over 900 sport 
-facilities in Bulgaria. For those who prefer to go to some other places, not covered by MultiSport or just do it at home, we compensate MultiSport card as monthly bonus payment of 60 leva (GROSS).
-
 #### Birthday Day Off
 
 Starting from 01.01.2020, all employees can take 1 fully paid day off on the official Birthday date or on any other day of the same week.
@@ -34,7 +29,6 @@ Starting from 01.01.2020, all employees can take 1 fully paid day off on the off
 #### Ever Holiday Gift
 
 Every year, at the end of December, Ever gives a thank-you gift to the employees, delivered into the office. 
-If employee working remotely, it's his responsibility to take gift from the office during no longer than 1 month, otherwise it will be consumed by hungry colleagues 😊
 
 ### Home Office Set-up
 
