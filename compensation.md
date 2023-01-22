@@ -12,20 +12,20 @@ Please see base salary stairs for all our Bulgarian R&D full-time software engin
 
 | Level  | Work Period | Gross Salary BGN | Raise | 
 |---|---|---|---|
-| Level 0 | 0 - 6 month during probation | 710 BGN | +0 | 
-| Level A | 0 - 6 month | 1420 BGN Gross | +0 (1420 = 2*710) | 
-| Level B | 6 month - 12 month | 1620 BGN Gross | +200 | 
-| Level C | 1 year - 2 years | 2020 BGN Gross | +400 | 
-| Level D | 2 years - 3 years | 2620 BGN Gross | +600 | 
-| Level E | 3 years - 4 years | 3620 BGN Gross | +1000 | 
-| Level F | 4 years - 5 years | 5220 BGN Gross | +1600 | 
-| Level G | 5 years - 6 years | 7820 BGN Gross | +2600 | 
-| Level H | 6 years - 7 years | 12020 BGN Gross | +4200 |
+| Level 0 | 0 - 6 month during probation | 780 BGN | +0 | 
+| Level A | 0 - 6 month | 1560 BGN Gross | +0 (1560 = 2*780) | 
+| Level B | 6 month - 12 month | 1760 BGN Gross | +200 | 
+| Level C | 1 year - 2 years | 2160 BGN Gross | +400 | 
+| Level D | 2 years - 3 years | 2760 BGN Gross | +600 | 
+| Level E | 3 years - 4 years | 3760 BGN Gross | +1000 | 
+| Level F | 4 years - 5 years | 5360 BGN Gross | +1600 | 
+| Level G | 5 years - 6 years | 7960 BGN Gross | +2600 | 
+| Level H | 6 years - 7 years | 12160 BGN Gross | +4200 |
 
 Notes: 
 
 - Level 0 is for initial probation period (6 month) and paid Internship. Some employees who have already much of past work experience or can demonstrate extensive knowledge / skills will be hired into Leval A and skip Level 0.
-- We define Level A salary as official Bulgarian minimum Salary * 2 (currently it’s 710 leva, Gross). That way if the official minimum salary got reindexed, we also automatically raise everything yearly.
+- We define Level A salary as official Bulgarian minimum Salary * 2 (currently it’s 780 leva, Gross). That way if the official minimum salary got reindexed, we also automatically raise everything yearly.
 - it’s the same idea as in Fibonacci numbers used above: 
 200, 400 (200+200), 600 (200+400), 1000 (400+600), 1600 (600+1000), 2600 (1000+1600), 4200 (1600+2600), ...
 - salary raised according to LEVEL, not according to years! We measure years of work at the company, but only employee performance and skills define the level, not the number of work years in the company. So amounts of years given for demonstration purposes only!!! It’s possible some engineers progress faster than others and move levels faster (according to performance reviews we will do in the future) and it’s possible some engineers progress slower than others and stay at the same level for multiple years (or indefinitely). We later will describe formally each level minimum requirements, but for now, it’s at manager discretion. Other companies are using positions for that like Junior, Senior, Senior II, Staff, Lead, etc. For now, we will just use single letter Levels and call everyone who works less than 6 months Junior.
