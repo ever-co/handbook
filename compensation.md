@@ -24,14 +24,14 @@ Please see the base salary stairs for all our Bulgarian R&D full-time software e
 
 Notes: 
 
-- Level 0 is for initial probation period (6 month) and paid Internship. Some employees who have already much of past work experience or can demonstrate extensive knowledge/skills will be hired into Leval A and skip Level 0.
-- We define Level A salary as the official Bulgarian minimum Salary * 2 (currently it’s 933 leva, Gross). That way if the official minimum salary gets reindexed, we also automatically raise everything yearly.
+- Level 0 is for the initial probation period (6 months) and paid Internship. Some employees who have already much of past work experience or can demonstrate extensive knowledge/skills will be hired into Level A and skip Level 0.
+- We define Level A salary as the official Bulgarian minimum Salary * 2 (currently, from Jan 2025, it’s 1077 BGN, Gross). That way if the official minimum salary gets reindexed, we also automatically raise everything yearly.
 - it’s the same idea as in Fibonacci numbers used above: 
 200, 400 (200+200), 600 (200+400), 1000 (400+600), 1600 (600+1000), 2600 (1000+1600), 4200 (1600+2600), ...
 - salary raised according to LEVEL, not according to years! We measure years of work at the company, but only employee performance and skills define the level, not the number of work years in the company. So the "amount" of years given for demonstration purposes only!!! It’s possible some engineers progress faster than others and move levels faster (according to performance reviews we will do in the future) and some engineers may progress slower than others and stay at the same level for multiple years (or indefinitely). We later will describe formally each level's minimum requirements, but for now, it’s at the manager's discretion. Other companies are using positions for that like Junior, Senior, Senior II, Staff, Lead, etc. For now, we will just use single letter Levels and call everyone who works less than 6 months Junior.
 - new employees with pre-existed experience might be hired into any Level, not necessarily into level A.
 
-**IMPORTANT: While we do have salary stairs as a reference of our employees monthly compensation base, exact amount of salary legally bind to individual employment contracts. Please use the amounts above for information purposes only, not as legal bind values.**
+**IMPORTANT: While we do have salary stairs as a reference for our employees' monthly compensation base, the exact amount of salary is legally bind to individual employment contracts. Please use the amounts above for information purposes only, not as legal bind values.**
 
 ## Income-based Bonus for our selected Employees and selected Contractors.
 
@@ -43,9 +43,9 @@ For example, if Employee A worked in Feb 2020 on some customer project and the c
 
 ## Profit-based Compensation for selected Contractors
 
-It's a 75% compensation from the NET Income value our company received to a bank account from our customers/partners from the work done by the contractor on a monthly basis minus all expenses related to the work of a given contractor (including, but not limited to base salary if exists, taxes, office space required for the contractor to work, insurance costs, additional benefits costs, fees from bank transactions, software used in connection to work, and so on). In short - it's a 75% of the "NET Profit" that the company makes out of work by a given contractor. 
+It's a 75% compensation from the NET Income value our company received to a bank account from our customers/partners from the work done by the contractor on a monthly basis minus all expenses related to the work of a given contractor (including, but not limited to base salary if exists, taxes, office space required for the contractor to work, insurance costs, additional benefits costs, fees from bank transactions, software used in connection to work, and so on). In short - it's 75% of the "NET Profit" that the company makes out of work by a given contractor. 
 
-For example, consider Contractor C, who worked in Feb 2020 on a customer project and the customer paid $3,000.00 USD for work done by Contractor C to our company (that amount is the NET amount which gets into a company bank account, i.e. all possible bank and other fees are already deducted). Let's assume Contractor C used a Visual Studio Professional license which costs 50$ per month, used internet connection provided by our company which cost 30$ per month and used shared office space provided by our company for his work which costs $100 per month. In such case, the total expenses which our company paid for the work of the given Contractor are: $180.00 USD. 
+For example, consider Contractor C, who worked in Feb 2020 on a customer project and the customer paid $3,000.00 USD for work done by Contractor C to our company (that amount is the NET amount which gets into a company bank account, i.e. all possible bank and other fees are already deducted). Let's assume Contractor C used a Visual Studio Professional license which costs 50$ per month, used an internet connection provided by our company which costs 30$ per month, and used shared office space provided by our company for his work which costs $100 per month. In such case, the total expenses which our company paid for the work of the given Contractor are: $180.00 USD. 
 
 So, in our example above, the Profit value is $3,000.00 USD - $180.00 USD = $2,820.00 USD.
 The contractor is entitled to receive 75% from $2,820.00 = $2,115.00 USD.
