@@ -218,3 +218,10 @@ By following these rules:
 - You **show professionalism** in open-source or internal company projects.
 
 **Thank you for helping keep our project clean, professional, and scalable !**
+
+### References and Further Reading
+
+- [Conventional Commits Specification](https://medium.com/r/?url=https%3A%2F%2Fwww.conventionalcommits.org%2F)
+- [Clean Code by Robert C. Martin](https://medium.com/r/?url=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F3735293-clean-code)
+- [How to Make a Git Commit Message Good](https://medium.com/r/?url=https%3A%2F%2Fcbea.ms%2Fgit-commit%2F)
+- [GitHub Documentation on Closing Issues via PRs](https://medium.com/r/?url=https%3A%2F%2Fdocs.github.com%2Fen%2Fissues%2Ftracking-your-work-with-issues%2Flinking-a-pull-request-to-an-issue)
