@@ -64,6 +64,7 @@
 1) We recommend to install https://www.zenhub.com/extension for better project management on Github
 
 2) It's best to make sure every Github PR or Issue has a short video or screenshots, especially for complex features. Today lots of software available for video recording (both paid and free), including:
+- https://rec.so
 - https://www.loom.com
 - [Vimeo Record](https://chrome.google.com/webstore/detail/vimeo-record-screen-webca/ejfmffkmeigkphomnpabpdabfddeadcb)
 - https://getsharex.com
