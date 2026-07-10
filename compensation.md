@@ -40,17 +40,17 @@ Most of our full-time employees (usually after the probation period) and selecte
 
 It's a 10% bonus from the NET Income value our company receives to the bank account from customers/partners from the work done by employees or contractors on a monthly basis.
 
-For example, if Employee A worked in Feb 2020 on some customer project and the customer paid $3,000.00 USD for work done by Employee A to our company (that amount is the NET amount which gets into a company bank account, i.e. all possible bank and other fees are already deducted), such employee will receive $300.00 GROSS bonus for work over that month (paid to an employee by our company during next month, i.e. in March 2020). In order to calculate the NET bonus value, it's required to deduct all taxes paid by the company (employer) on the salary (bonus) paid to employees. In Bulgaria, it's easy to use <https://kik-info.com/trz/zaplata.php> to calculate the approximate NET amount from the GROSS amount.
+For example, if Employee A worked in Feb 2020 on some customer project and the customer paid 3,000.00 USD for work done by Employee A to our company (that amount is the NET amount which gets into a company bank account, i.e. all possible bank and other fees are already deducted), such employee will receive 300.00 USD GROSS bonus for work over that month (paid to an employee by our company during next month, i.e. in March 2020). In order to calculate the NET bonus value, it's required to deduct all taxes paid by the company (employer) on the salary (bonus) paid to employees. In Bulgaria, it's easy to use <https://kik-info.com/trz/zaplata.php> to calculate the approximate NET amount from the GROSS amount.
 
 ## Profit-based Compensation for selected Contractors
 
 It's a 75% compensation from the NET Income value our company received to a bank account from our customers/partners from the work done by the contractor on a monthly basis minus all expenses related to the work of a given contractor (including, but not limited to base salary if exists, taxes, office space required for the contractor to work, insurance costs, additional benefits costs, fees from bank transactions, software used in connection to work, and so on). In short - it's 75% of the "NET Profit" that the company makes out of work by a given contractor. 
 
-For example, consider Contractor C, who worked in Feb 2020 on a customer project and the customer paid $3,000.00 USD for work done by Contractor C to our company (that amount is the NET amount which gets into a company bank account, i.e. all possible bank and other fees are already deducted). Let's assume Contractor C used a Visual Studio Professional license which costs 50$ per month, used an internet connection provided by our company which costs 30$ per month, and used shared office space provided by our company for his work which costs $100 per month. In such case, the total expenses which our company paid for the work of the given Contractor are: $180.00 USD. 
+For example, consider Contractor C, who worked in Feb 2020 on a customer project and the customer paid 3,000.00 USD for work done by Contractor C to our company (that amount is the NET amount which gets into a company bank account, i.e. all possible bank and other fees are already deducted). Let's assume Contractor C used a Visual Studio Professional license which costs 50 USD per month, used an internet connection provided by our company which costs 30 USD per month, and used shared office space provided by our company for his work which costs 100 USD per month. In such case, the total expenses which our company paid for the work of the given Contractor are: 180.00 USD. 
 
-So, in our example above, the Profit value is $3,000.00 USD - $180.00 USD = $2,820.00 USD.
-The contractor is entitled to receive 75% from $2,820.00 = $2,115.00 USD.
-Our company is entitled to keep 25% from that $2,820.00 = $705.00 USD.
+So, in our example above, the Profit value is 3,000.00 USD - 180.00 USD = 2,820.00 USD.
+The contractor is entitled to receive 75% from 2,820.00 USD = 2,115.00 USD.
+Our company is entitled to keep 25% from that 2,820.00 USD = 705.00 USD.
 
 Of course, it's the responsibility of the Contractor to pay all required taxes from the compensation received (or they will be deducted from the compensation amount and paid by our company according to civil contracts), same as it's our company's responsibility to pay relevant taxes from our company profits.
 
