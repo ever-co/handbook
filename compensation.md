@@ -10,24 +10,25 @@ In addition to the base salary (defined by individual employment contracts), all
 
 Please see the base salary stairs for all our Bulgarian R&D full-time software engineers (with exceptions, see info below).
 
-| Level  | Work Period | Gross Salary BGN | Raise | 
+| Level  | Work Period | Gross Salary EUR | Raise | 
 |---|---|---|---|
-| Level 0 | 0 - 6 month during probation | 1077 BGN | +0 | 
-| Level A | 0 - 6 month | 2154 BGN Gross | +0 (2154 = 2*1077) | 
-| Level B | 6 month - 12 month | 2354 BGN Gross | +200 | 
-| Level C | 1 year - 2 years | 2754 BGN Gross | +400 | 
-| Level D | 2 years - 3 years | 3354 BGN Gross | +600 | 
-| Level E | 3 years - 4 years | 4354 BGN Gross | +1000 | 
-| Level F | 4 years - 5 years | 5954 BGN Gross | +1600 | 
-| Level G | 5 years - 6 years | 8554 BGN Gross | +2600 | 
-| Level H | 6 years - 7 years | 12754 BGN Gross | +4200 |
+| Level 0 | 0 - 6 month during probation | 550 EUR | +0 | 
+| Level A | 0 - 6 month | 1100 EUR Gross | +0 (1100 = 2*550) | 
+| Level B | 6 month - 12 month | 1200 EUR Gross | +100 EUR | 
+| Level C | 1 year - 2 years | 1400 EUR Gross | +200 EUR | 
+| Level D | 2 years - 3 years | 1700 EUR Gross | +300 EUR | 
+| Level E | 3 years - 4 years | 2200 EUR Gross | +500 EUR | 
+| Level F | 4 years - 5 years | 3000 EUR Gross | +800 EUR | 
+| Level G | 5 years - 6 years | 4300 EUR Gross | +1300 EUR | 
+| Level H | 6 years - 7 years | 6400 EUR Gross | +2100 EUR |
 
 Notes: 
 
 - Level 0 is for the initial probation period (6 months) and paid Internship. Some employees who have already much of past work experience or can demonstrate extensive knowledge/skills will be hired into Level A and skip Level 0.
-- We used to define Level A salary as the official Bulgarian minimum Salary * 2 (currently, from Jan 2025, it’s 1077 BGN, Gross). That way when the official minimum salary gets reindexed, we also automatically raised everything yearly. However, we stop this practice from Jan 2026 as we can't keep up with inflation rates in Bulgaria anymore, at least for 2026.
+- Salary values above are shown in EUR. Bulgaria's lev (BGN) is pegged to the euro at the fixed rate of 1 EUR = 1.95583 BGN, so Level 0 = 1077 BGN converts to ~550 EUR (fractions dropped); higher levels follow the Fibonacci raise steps in EUR.
+- We used to define Level A salary as the official Bulgarian minimum Salary * 2 (currently, from Jan 2025, it’s 550 EUR, Gross). That way when the official minimum salary gets reindexed, we also automatically raised everything yearly. However, we stop this practice from Jan 2026 as we can't keep up with inflation rates in Bulgaria anymore, at least for 2026.
 - it’s the same idea as in Fibonacci numbers used above: 
-200, 400 (200+200), 600 (200+400), 1000 (400+600), 1600 (600+1000), 2600 (1000+1600), 4200 (1600+2600), ...
+100, 200 (100+100), 300 (100+200), 500 (200+300), 800 (300+500), 1300 (500+800), 2100 (800+1300), ...
 - salary raised according to LEVEL, not according to years! We measure years of work at the company, but only employee performance and skills define the level, not the number of work years in the company. So the "amount" of years given for demonstration purposes only!!! It’s possible some engineers progress faster than others and move levels faster (according to performance reviews we will do in the future) and some engineers may progress slower than others and stay at the same level for multiple years (or indefinitely). We later will describe formally each level's minimum requirements, but for now, it’s at the manager's discretion. Other companies are using positions for that like Junior, Senior, Senior II, Staff, Lead, etc. For now, we will just use single letter Levels and call everyone who works less than 6 months Junior.
 - new employees with pre-existed experience might be hired into any Level, not necessarily into level A.
 
