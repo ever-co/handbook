@@ -8,7 +8,7 @@ Open positions are listed at https://github.com/ever-co/jobs.
 ## Ever Technologies Agency Contractors (work on our customer's projects)
 
 We have multiple contractors who joined our agency to work on customer projects.  
-Some of the contractors are listed at our Upwork agency profile: https://upwork.com/ag/ever
+Some of the contractors are listed at our Upwork agency profile: https://www.upwork.com/agencies/ever
 
 ### General Rules
 
